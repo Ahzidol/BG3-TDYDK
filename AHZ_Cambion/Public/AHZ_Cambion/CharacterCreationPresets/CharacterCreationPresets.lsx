@@ -4,28 +4,30 @@
     <region id="CharacterCreationPresets">
         <node id="root">
             <children>
+                <!-- Cambion Male Preset -->
                 <node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/> <!-- Male Body -->
                     <attribute id="CloseUpA" type="LSString" value="TIF_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="TIF_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="TIF_M_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
-                    <attribute id="RootTemplate" type="guid" value="cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2"/>
-                    <attribute id="SubRaceUUID" type="guid" value="3f30547c-248c-4781-b0e3-6ef2ab99426b"/>
-                    <attribute id="UUID" type="guid" value="d2791990-c6d6-4692-83ee-49932049eddf"/>
+                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/> <!-- Tiefling Race -->
+                    <attribute id="RootTemplate" type="guid" value="fb22f3c0-2477-47e2-a903-cebc81705547"/> <!-- AHZ_Cambion_Male_Player -->
+                    <attribute id="SubRaceUUID" type="guid" value="9e8826fc-bddf-4daf-8e9a-9a923452da35"/> <!-- AHZ_Cambion Race -->
+                    <attribute id="UUID" type="guid" value="0d64105f-273d-43e2-ad8d-f36f9febafc1"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
                 </node>
+                <!-- Cambion Female Preset -->
                 <node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/> <!-- Female Body -->
                     <attribute id="CloseUpA" type="LSString" value="TIF_F_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="TIF_F_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="TIF_F_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
-                    <attribute id="RootTemplate" type="guid" value="aadac54f-38c0-4486-b45f-01c30e2e9323"/>
-                    <attribute id="SubRaceUUID" type="guid" value="3f30547c-248c-4781-b0e3-6ef2ab99426b"/>
-                    <attribute id="UUID" type="guid" value="af6a101c-f898-4761-ab94-082d4adadf32"/>
+                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/> <!-- Tiefling Race -->
+                    <attribute id="RootTemplate" type="guid" value="6e099288-a2b0-48ee-8c62-d56fc3ec759a"/> <!-- AHZ_Cambion_Female_Player -->
+                    <attribute id="SubRaceUUID" type="guid" value="9e8826fc-bddf-4daf-8e9a-9a923452da35"/> <!-- AHZ_Cambion Race -->
+                    <attribute id="UUID" type="guid" value="d08e39f8-a8ce-4e34-8e2d-a6d1cd255ae4"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
                 </node>
             </children>
