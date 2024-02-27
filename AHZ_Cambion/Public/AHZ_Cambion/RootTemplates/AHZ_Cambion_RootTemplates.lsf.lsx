@@ -40,8 +40,8 @@
 				</node>
 				<!-- AHZ Cambion Male Player -->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="a178a41d-05c3-3bc8-4879-15d2effe3300" /> <!-- Tieflings_Male_Asmodeus_Player -->
-					<attribute id="Icon" type="FixedString" value="a178a41d-05c3-3bc8-4879-15d2effe3300-_(Icon_Tiefling_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f9d6baf8-b605-4293-a8ca-f0efa3f0a6e8" /> <!-- AHZ_Cambion_Male_Player -->
+					<attribute id="Icon" type="FixedString" value="f9d6baf8-b605-4293-a8ca-f0efa3f0a6e8-_(Icon_Tiefling_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="fb22f3c0-2477-47e2-a903-cebc81705547" />
 					<attribute id="Name" type="LSString" value="AHZ_Cambion_Male_Player" />
@@ -67,8 +67,8 @@
 				</node>
 				<!-- AHZ Cambion Female Player -->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436" /> <!-- Tieflings_Female_Asmodeus_Player -->
-					<attribute id="Icon" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436-_(Icon_Tiefling_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="90e7d242-cac7-4124-a734-847f3e44533a" /> <!-- AHZ_Cambion_Female_Player -->
+					<attribute id="Icon" type="FixedString" value="90e7d242-cac7-4124-a734-847f3e44533a-_(Icon_Tiefling_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="6e099288-a2b0-48ee-8c62-d56fc3ec759a" />
 					<attribute id="Name" type="LSString" value="AHZ_Cambion_Female_Player" />
