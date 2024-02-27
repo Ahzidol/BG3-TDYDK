@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="CharacterCreationPresets">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="CloseUpA" type="LSString" value="TIF_M_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="TIF_M_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="TIF_M_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
+                    <attribute id="RootTemplate" type="guid" value="cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2"/>
+                    <attribute id="SubRaceUUID" type="guid" value="3f30547c-248c-4781-b0e3-6ef2ab99426b"/>
+                    <attribute id="UUID" type="guid" value="d2791990-c6d6-4692-83ee-49932049eddf"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+                </node>
+                <node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="CloseUpA" type="LSString" value="TIF_F_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="TIF_F_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="TIF_F_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
+                    <attribute id="RootTemplate" type="guid" value="aadac54f-38c0-4486-b45f-01c30e2e9323"/>
+                    <attribute id="SubRaceUUID" type="guid" value="3f30547c-248c-4781-b0e3-6ef2ab99426b"/>
+                    <attribute id="UUID" type="guid" value="af6a101c-f898-4761-ab94-082d4adadf32"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
