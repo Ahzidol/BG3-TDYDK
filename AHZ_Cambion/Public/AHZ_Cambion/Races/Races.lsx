@@ -6,8 +6,8 @@
             <children>
                 <!-- Cambion Subrace -->
                 <node id="Race">
-                    <attribute id="Description" type="TranslatedString" handle="h6a739789g8bbag4a8ag90dag775d4166d8a2" version="2"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h7cf08b06gebe6g43c5gaad5gf9f8f4f3d1f2" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5f8b78c7g7dbag4424g8b0bg23da9a7a1b42" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h053f1767g5a6cg42b7gb498gffb760370e54" version="1"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="AHZ_Cambion"/>
                     <attribute id="ParentGuid" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/> <!-- Tiefling Race -->
