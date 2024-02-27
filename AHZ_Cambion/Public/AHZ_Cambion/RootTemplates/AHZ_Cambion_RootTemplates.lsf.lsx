@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="576a9e8f-88f2-fbdc-5103-4591553e6bef" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Tiefling_Male" />
+					<attribute id="Icon" type="FixedString" value="576a9e8f-88f2-fbdc-5103-4591553e6bef-_(Icon_Tiefling_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6f881126-478f-43a4-ba02-c024cf03a212" />
+					<attribute id="Name" type="LSString" value="BASE_Tieflings_Male_Asmodeus" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b63752c4-0fad-4c1b-8da2-fee201253734" />
+					<attribute id="Race" type="guid" value="3f30547c-248c-4781-b0e3-6ef2ab99426b" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855903" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0d301a8e-ba30-4616-266f-82d4e7ef46ef" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Tiefling_Female" />
+					<attribute id="Icon" type="FixedString" value="0d301a8e-ba30-4616-266f-82d4e7ef46ef-_(Icon_Tiefling_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="619e1ca1-2467-42a3-abb2-627e8ce527c3" />
+					<attribute id="Name" type="LSString" value="BASE_Tieflings_Female_Asmodeus" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5b11557c-90b8-4e7b-bf46-1fb23454a79d" />
+					<attribute id="Race" type="guid" value="3f30547c-248c-4781-b0e3-6ef2ab99426b" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="VisualTemplate" type="FixedString" value="32c30a04-896d-33fd-69eb-5c5ab5dfa284" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
