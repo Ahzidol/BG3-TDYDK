@@ -4,12 +4,13 @@
 	<region id="CharacterVisualBank">
 		<node id="CharacterVisualBank">
 			<children>
+				<!-- Cambion Male-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="17eb4495-aeb5-a417-83a1-79b39313cba2" />
 					<attribute id="BodySetVisual" type="FixedString" value="9d618ae2-7993-5cea-bfea-887a010e2c2b" />
-					<attribute id="ID" type="FixedString" value="576a9e8f-88f2-fbdc-5103-4591553e6bef" />
+					<attribute id="ID" type="FixedString" value="ccab93f6-beed-4c5f-a808-3bf811a5113d" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="TIF_M_Body_A" />
+					<attribute id="Name" type="LSString" value="AHZ_Cambion_Male" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758165" />
 					<children>
@@ -74,11 +75,12 @@
 						</node>
 					</children>
 				</node>
+				<!-- Cambion Female-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="32c30a04-896d-33fd-69eb-5c5ab5dfa284" />
 					<attribute id="BodySetVisual" type="FixedString" value="820ddd41-7946-f026-099f-7034983d50d2" />
-					<attribute id="ID" type="FixedString" value="0d301a8e-ba30-4616-266f-82d4e7ef46ef" />
-					<attribute id="Name" type="LSString" value="BASE_Tieflings_Female_Asmodeus_619e1ca1-2467-42a3-abb2-627e8ce527c3" />
+					<attribute id="ID" type="FixedString" value="981d3864-72b5-43d5-9b52-c58dea905bb4" />
+					<attribute id="Name" type="LSString" value="AHZ_Cambion_Female" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
 					<children>
