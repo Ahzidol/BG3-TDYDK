@@ -92,15 +92,16 @@
 						</node>
 					</children>
 				</node>
+				<!-- AHZ Cambion Male Strong Player -->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="351d13d4-a4de-0dd0-24df-3a194285c7e6" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b04691da-a94c-436e-aee5-dcd2da19a114" /> <!-- AHZ_Cambion_Male_Strong_Player -->
 					<attribute id="EquipmentRace" type="guid" value="f625476d-29ec-4a6d-9086-42209af0cf6f" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Icon" type="FixedString" value="351d13d4-a4de-0dd0-24df-3a194285c7e6-_(Icon_Human_Male_Strong)" />
+					<attribute id="Icon" type="FixedString" value="b04691da-a94c-436e-aee5-dcd2da19a114-_(Icon_Human_Male_Strong)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="e2a05c9a-7366-4833-86e8-80764e111b71" />
-					<attribute id="Name" type="LSString" value="Tieflings_Male_Asmodeus_Player_Strong" />
-					<attribute id="ParentTemplateId" type="FixedString" value="cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2" />
+					<attribute id="MapKey" type="FixedString" value="eeacb8ef-cbf1-4dd4-8472-440465b94c15" />
+					<attribute id="Name" type="LSString" value="AHZ_Cambion_Male_Strong_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fb22f3c0-2477-47e2-a903-cebc81705547" /> <!-- AHZ_Cambion_Male_Player -->
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="a9afff3b-121d-085e-12af-9e9fb07c788f" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
@@ -115,15 +116,16 @@
 						</node>
 					</children>
 				</node>
+				<!-- AHZ Cambion Female Strong Player -->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="fcff3667-ddc0-1b32-2b7f-1acedfa0cf50" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9e46f289-d795-437e-9714-549c08dbf163" /> <!-- AHZ_Cambion_Female_Strong_Player-->
 					<attribute id="EquipmentRace" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Icon" type="FixedString" value="fcff3667-ddc0-1b32-2b7f-1acedfa0cf50-_(Icon_Human_Female_Strong)" />
+					<attribute id="Icon" type="FixedString" value="9e46f289-d795-437e-9714-549c08dbf163-_(Icon_Human_Female_Strong)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="7abd78c4-41cc-4910-aaf2-4e06fd314303" />
-					<attribute id="Name" type="LSString" value="Tieflings_Female_Asmodeus_Player_Strong" />
-					<attribute id="ParentTemplateId" type="FixedString" value="aadac54f-38c0-4486-b45f-01c30e2e9323" />
+					<attribute id="MapKey" type="FixedString" value="6e4a6a12-8cf2-4c5e-b409-3466653c330d" />
+					<attribute id="Name" type="LSString" value="AHZ_Cambion_Female_Strong_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="88af28b2-3156-4d35-8bd2-66906b3eba02" /> <!-- AHZ_Cambion_Female_Player -->
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="f1cdcf6d-7469-14ec-380f-3cb5df440340" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />

@@ -6,7 +6,7 @@
             <children>
                 <!-- Cambion Male Preset -->
                 <node id="CharacterCreationPreset">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!-- Slim -->
                     <attribute id="BodyType" type="uint8" value="0"/> <!-- Male Body -->
                     <attribute id="CloseUpA" type="LSString" value="TIF_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="TIF_M_Camera_Closeup_B"/>
@@ -19,7 +19,7 @@
                 </node>
                 <!-- Cambion Female Preset -->
                 <node id="CharacterCreationPreset">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/> <!-- Slim -->
                     <attribute id="BodyType" type="uint8" value="1"/> <!-- Female Body -->
                     <attribute id="CloseUpA" type="LSString" value="TIF_F_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="TIF_F_Camera_Closeup_B"/>
@@ -28,6 +28,32 @@
                     <attribute id="RootTemplate" type="guid" value="6e099288-a2b0-48ee-8c62-d56fc3ec759a"/> <!-- AHZ_Cambion_Female_Player -->
                     <attribute id="SubRaceUUID" type="guid" value="9e8826fc-bddf-4daf-8e9a-9a923452da35"/> <!-- AHZ_Cambion Race -->
                     <attribute id="UUID" type="guid" value="d08e39f8-a8ce-4e34-8e2d-a6d1cd255ae4"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+                </node>
+                <!-- Cambion Male Strong Preset -->
+                <node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!-- Strong -->
+                    <attribute id="BodyType" type="uint8" value="0"/> <!-- Male Body -->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/> <!-- Tiefling Race -->
+                    <attribute id="RootTemplate" type="guid" value="eeacb8ef-cbf1-4dd4-8472-440465b94c15"/> <!-- AHZ_Cambion_Male_Strong_Player -->
+                    <attribute id="SubRaceUUID" type="guid" value="9e8826fc-bddf-4daf-8e9a-9a923452da35"/> <!-- AHZ_Cambion Race -->
+                    <attribute id="UUID" type="guid" value="03817ebc-6e51-4bcf-a3d6-983549022585"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+                </node>
+                <!-- Cambion Female Strong Preset -->
+                <node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="1"/> <!-- Strong -->
+                    <attribute id="BodyType" type="uint8" value="1"/> <!-- Female Body -->
+                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/> <!-- Tiefling Race -->
+                    <attribute id="RootTemplate" type="guid" value="6e4a6a12-8cf2-4c5e-b409-3466653c330d"/> <!-- AHZ_Cambion_Female_Strong_Player -->
+                    <attribute id="SubRaceUUID" type="guid" value="9e8826fc-bddf-4daf-8e9a-9a923452da35"/> <!-- AHZ_Cambion Race -->
+                    <attribute id="UUID" type="guid" value="f278f495-a57d-4684-8f12-4729a3151e44"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
                 </node>
             </children>
