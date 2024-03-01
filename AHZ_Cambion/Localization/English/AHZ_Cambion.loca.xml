@@ -2,4 +2,6 @@
 <contentList>
 	<content contentuid="h053f1767g5a6cg42b7gb498gffb760370e54" version="1">Cambion</content> <!-- Race DisplayName-->
 	<content contentuid="h5f8b78c7g7dbag4424g8b0bg23da9a7a1b42" version="2">Scarlet-eyed and bitter-tempered, cambion are the bastard children of devils and mortals, a fusion of two Planes in one body.</content> <!-- Race Description -->
+	<content contentuid="hcde85d62gf610g407egb583g98047333d261" version="2">Cambion</content> <!-- Race Tag DisplayName -->
+	<content contentuid="hfe8a98dbgd0ccg46b2g9862gfd6056fffeaf" version="1">Scarlet-eyed and bitter-tempered, cambion are the bastard children of devils and mortals, a fusion of two Planes in one body.</content> <!-- Race Tag Description -->
 </contentList>
