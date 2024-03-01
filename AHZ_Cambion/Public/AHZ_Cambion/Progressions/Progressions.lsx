@@ -7,35 +7,35 @@
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value="Ability(Intelligence,1);Ability(Charisma,2);ActionResource(Movement,9,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="AsmodeusTiefling"/>
+                    <attribute id="Name" type="LSString" value="AHZ_Cambion"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(5eada6b7-d9a2-4ef2-8872-0dce047e458c,,Charisma,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="5ae9c280-64fd-43fb-85f3-40d1796c5b24"/>
-                    <attribute id="UUID" type="guid" value="a8b18f0c-fe70-4f13-9dbc-23f4dbc3d648"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a3366430-2f63-495c-be14-408d9facfd3b,,Charisma,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="be57b2ba-3987-4c19-a092-c555c6745fde"/>
+                    <attribute id="UUID" type="guid" value="ca6efd43-fb07-4dcc-b055-d0ec54804634"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
-                    <attribute id="Name" type="LSString" value="AsmodeusTiefling"/>
+                    <attribute id="Name" type="LSString" value="AHZ_Cambion"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="TableUUID" type="guid" value="5ae9c280-64fd-43fb-85f3-40d1796c5b24"/>
-                    <attribute id="UUID" type="guid" value="2d07c1b4-baec-4bdb-a75a-ca513ad8df46"/>
+                    <attribute id="TableUUID" type="guid" value="be57b2ba-3987-4c19-a092-c555c6745fde"/>
+                    <attribute id="UUID" type="guid" value="24c8e906-9aed-40b4-9d57-6b902d0c0788"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value="ActionResource(Interrupt_HellishRebukeTiefling_Charge,1,0)"/>
                     <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Name" type="LSString" value="AsmodeusTiefling"/>
+                    <attribute id="Name" type="LSString" value="AHZ_Cambion"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(87b3ec16-de6f-4fd9-a809-78934a82c5d9,,Charisma,,AlwaysPrepared,UntilRest)"/>
-                    <attribute id="TableUUID" type="guid" value="5ae9c280-64fd-43fb-85f3-40d1796c5b24"/>
-                    <attribute id="UUID" type="guid" value="bf3c33f5-4b95-4048-91f5-d8ff6f7a9cdd"/>
+                    <attribute id="TableUUID" type="guid" value="be57b2ba-3987-4c19-a092-c555c6745fde"/>
+                    <attribute id="UUID" type="guid" value="8cb24530-8d28-4ff6-8a06-73cc06a5898e"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
-                    <attribute id="Name" type="LSString" value="AsmodeusTiefling"/>
+                    <attribute id="Name" type="LSString" value="AHZ_Cambion"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(ab1b1b3e-d13c-49b3-b061-c72dd3c8a2b4,,Charisma,,AlwaysPrepared,UntilRest)"/>
-                    <attribute id="TableUUID" type="guid" value="5ae9c280-64fd-43fb-85f3-40d1796c5b24"/>
-                    <attribute id="UUID" type="guid" value="76ced3c8-2244-477b-bab3-ba741db463d3"/>
+                    <attribute id="TableUUID" type="guid" value="be57b2ba-3987-4c19-a092-c555c6745fde"/>
+                    <attribute id="UUID" type="guid" value="360407c1-947f-473d-905c-d7197851a776"/>
                 </node>
             </children>
         </node>

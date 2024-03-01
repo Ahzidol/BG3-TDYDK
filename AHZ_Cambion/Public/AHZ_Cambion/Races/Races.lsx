@@ -11,7 +11,7 @@
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="AHZ_Cambion"/>
                     <attribute id="ParentGuid" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/> <!-- Tiefling Race -->
-                    <attribute id="ProgressionTableUUID" type="guid" value="5ae9c280-64fd-43fb-85f3-40d1796c5b24"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="be57b2ba-3987-4c19-a092-c555c6745fde"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Tiefling"/>
                     <attribute id="UUID" type="guid" value="9e8826fc-bddf-4daf-8e9a-9a923452da35"/>
                     <children>
