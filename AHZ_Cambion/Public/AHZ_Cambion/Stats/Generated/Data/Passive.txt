@@ -1,0 +1,8 @@
+new entry "FiendishBlessing"
+type "PassiveData"
+data "DisplayName" "h047e59f7g5687g49f4g80b6g1ce0d0204670;3"
+data "Description" "h55d88e40gd7bdg4c10g98ffga7f04d194c4b;6"
+data "DescriptionParams" "2"
+data "Icon" "GenericIcon_DamageType_Physical"
+data "Boosts" "AC(2)"
+
